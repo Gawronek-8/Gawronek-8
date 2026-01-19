@@ -6,7 +6,7 @@
 - Data Science
 
 #### Current projects:
-* Smart noise detector with mobile app
+* Smart noise detector device with mobile app
 * AI model for zero shot NER task
 * Web app for doctor's appointments calendar
 
