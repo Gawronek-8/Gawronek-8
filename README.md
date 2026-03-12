@@ -6,8 +6,7 @@
 - Data Science
 
 #### Current projects:
-* Smart noise detector device with mobile app
-* AI model for zero shot NER task
-* Web app for doctor's appointments calendar
+* AI model for zero shot NER task (for student research group)
+* Bot for Hades 2 that utilizes YOLO
 
 Currently reading - Solaris (Stanisław Lem) 
