@@ -6,7 +6,6 @@
 - Data Science
 
 #### Current projects:
-* AI model for zero shot NER task (for student research group)
-* Bot for Hades 2 that utilizes YOLO
+* MTG chatbot
 
-Currently reading - Solaris (Stanisław Lem) 
+Currently reading - ACOTAR series
